@@ -9,7 +9,7 @@ Melbourne, Victoria, Australia
 
 Hi there 👋 
 
-I'm Dominic and I'm a software developer. My interest lies in building well written and well designed software services. I've had at least a decade of experience in software development and had my fair share of successes, failures and embarassing implementations. I'm mainly a Java developer and hence have spent most of my career honing my OOP skillsets.
+I'm Dominic and I'm a software developer. My interest lies in building well written and well designed software services. I've had at least a decade of experience in software development and had my fair share of successes, failures and embarassing implementations. I'm mainly a Java developer and hence have spent most of my career honing my OOP skillsets. I have always been passionate in building software services that matter and building them in a way that's easy to manage. 
 
 
 <!--
