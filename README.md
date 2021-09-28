@@ -11,6 +11,14 @@ Hi there 👋
 
 I'm Dominic and I'm a software developer. My interest lies in building well written and well designed software services. I've had at least a decade of experience in software development and had my fair share of successes, failures and embarassing implementations. I'm mainly a Java developer and hence have spent most of my career honing my OOP skillsets. I have always been passionate in building software services that matter and building them in a way that's easy to manage. In order to attain this, I'm currently tackling on IaC and CI/CD practices and continuously improve my knowledge on modern software architectures.
 
+#### My Philosophies (So Far)
+
+##### Domain Driven Design
+
+##### SOLID Principles
+
+##### Fail Fast
+
 
 <!--
 **dpdiamante/dpdiamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
