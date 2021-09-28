@@ -1,5 +1,10 @@
-### Hi there 👋
+### Dominic Diamante
+---
+Melbourne, Victoria, Australia
 
+<!--[<img align="left" alt="dpdiamante | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]-->
+
+👋 Hi there, I'm Dominic
 <!--
 **dpdiamante/dpdiamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
