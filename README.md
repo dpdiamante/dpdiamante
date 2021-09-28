@@ -1,10 +1,17 @@
 ### Dominic Diamante
 ---
+[<img align="left" alt="dpdiamante | LinkedIn" width="22px" src="./linkedin.png" />][linkedin] 
+
+[linkedin]: https://www.linkedin.com/in/dominic-diamante-21798811/
+
 Melbourne, Victoria, Australia
 
-<!--[<img align="left" alt="dpdiamante | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]-->
 
-👋 Hi there, I'm Dominic
+Hi there 👋 
+
+I'm Dominic and I'm a software developer. My interest lies in building well written and well designed software services.
+
+
 <!--
 **dpdiamante/dpdiamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
