@@ -14,6 +14,7 @@ I'm Dominic and I'm a software developer. My interest lies in building well writ
 #### My Philosophies (So Far)
 
 ##### Domain Driven Design
+This is even more important when building complex services, regardless if they are architected as monoliths or microservices. All stakeholders have to agree in a common domain model as much as possible and this would reflect through a ubiquitous language.
 
 ##### SOLID Principles
 
