@@ -19,6 +19,8 @@ This is even more important when building complex services, regardless if they a
 ##### SOLID Principles
 I would even go as far in saying that all you need to know to be good in OOP is learning how to practice SOLID in your day to day coding (in an OOP lanuage of course). Trying to understand the different design patterns by the GoF is useless if you don't have a good grasp of SOLID.
 
+##### 12 Factor App
+
 ##### Fail Fast
 Avoid analysis paralysis or gold plating and start experimenting on various solutions.
 
