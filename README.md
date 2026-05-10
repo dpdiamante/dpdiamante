@@ -21,6 +21,8 @@ I would even go as far in saying that all you need to know to be good in OOP is 
 
 ##### 12 Factor App
 
+##### Onion Architecture
+
 ##### Fail Fast
 Avoid analysis paralysis or gold plating and start experimenting on various solutions.
 
